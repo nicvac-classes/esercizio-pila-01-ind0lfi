@@ -69,7 +69,6 @@ class Esercizio {
     public int size(){
         Pila<T> pila2=new Pila<>();
         int c;
-        
         try{
             while(true){
                 T dato=pila2.pop();
